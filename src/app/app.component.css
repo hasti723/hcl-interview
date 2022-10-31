@@ -1,0 +1,14 @@
+p {
+  font-family: Lato;
+}
+
+.tablecells {
+  padding: 2px;
+  border: solid 1px;
+  border-collapse: collapse;
+}
+
+tr th, td {
+  border: solid 1px;
+  padding: 5px;
+}
